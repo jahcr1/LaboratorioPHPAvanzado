@@ -25,6 +25,7 @@ Este laboratorio está pensado como una **base de estudio y referencia** para de
 
 ## 📂 Estructura del Proyecto
 
+```
 📦 PHP_Avanzado/
 ├── clase1/ # Manejo de Fechas
 │ ├── componentes/ # Scripts para lógica Backend
