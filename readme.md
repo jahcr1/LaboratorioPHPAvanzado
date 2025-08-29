@@ -7,9 +7,9 @@ Este laboratorio está pensado como una **base de estudio y referencia** para de
 
 ## 📸 Capturas de Pantalla
 
-| Fechas y Horarios                   | Procesamiento de Imágenes               | Captcha / Seguridad                   |
-| ----------------------------------- | --------------------------------------- | ------------------------------------- |
-| ![Fechas](./screenshots/fechas.png) | ![Imágenes](./screenshots/imagenes.png) | ![Captcha](./screenshots/captcha.png) |
+| Inserción de datos con MySQL            | Fechas y Ficheros                            | POO / PDO / Seguridad                   |
+| --------------------------------------- | -------------------------------------------- | ------------------------------------- |
+| ![Imágenes](./screenshots/unidad1.png)  | ![Fechas](./screenshots/fechasyficheros.png) | ![PDO](./screenshots/datosconPOO.png) |
 
 ---
 
@@ -68,6 +68,9 @@ Este laboratorio está pensado como una **base de estudio y referencia** para de
 │ └── unidad8.php # Interfaz de la Unidad 8
 ├── screenshots/ # Capturas de funcionalidades
 └── README.md # Este archivo
+```
+
+---
 
 ## 🚀 Funcionalidades Clave
 
@@ -100,17 +103,21 @@ Este laboratorio está pensado como una **base de estudio y referencia** para de
    ```
 
 2. Ingresar al proyecto
+  ```bash
    cd LaboratorioPHPAvanzado
+  ```
 
 3. Instalar dependencias con Composer
+   ```bash
    composer install
 
 4. Configurar el archivo .env con tus credenciales de base de datos y llaves de Google reCAPTCHA.
 
 5. Levantar el proyecto con Apache o un entorno local como XAMPP, WAMP o Laragon.
 
+---
 
-📝  Mejoras Futuras
+## 📝  Mejoras Futuras
 
 - 🧩 Dashboard de ejemplos ejecutables con interfaz gráfica.
 
@@ -122,14 +129,20 @@ Este laboratorio está pensado como una **base de estudio y referencia** para de
 
 - 🧩 Integrar testing unitario con PHPUnit.
 
-🧑‍💻 Autor
+---
+
+## 🧑‍💻 Autor
 
 [Martin Contreras]
-Desarrollador Web / Backend PHP
-📧 martin.contreras.dev@gmail.com
+  Desarrollador Web / Backend PHP
+  
+  📧 martin.contreras.dev@gmail.com
+  🌐 [martincontrerasdev.com](https://martincontrerasdev.com/)
 
-🌐 [martincontrerasdev.com](https://martincontrerasdev.com/)
+---
 
-📄 Licencia
+## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
+  Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
+
+---
