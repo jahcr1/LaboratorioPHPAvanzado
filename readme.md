@@ -99,7 +99,6 @@ Este laboratorio está pensado como una **base de estudio y referencia** para de
 
    ```bash
    git clone https://github.com/tuusuario/LaboratorioPHPAvanzado.git
-
    ```
 
 2. Ingresar al proyecto
@@ -110,8 +109,9 @@ Este laboratorio está pensado como una **base de estudio y referencia** para de
 3. Instalar dependencias con Composer
    ```bash
    composer install
+   ```
 
-4. Configurar el archivo .env con tus credenciales de base de datos y llaves de Google reCAPTCHA.
+4. Crear y configurar el archivo .env con tus credenciales de base de datos y llaves de Google reCAPTCHA.
 
 5. Levantar el proyecto con Apache o un entorno local como XAMPP, WAMP o Laragon.
 
